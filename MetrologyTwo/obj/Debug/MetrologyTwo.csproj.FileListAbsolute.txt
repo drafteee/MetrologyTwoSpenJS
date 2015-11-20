@@ -1,0 +1,9 @@
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\bin\Debug\MetrologyTwo.exe.config
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\bin\Debug\MetrologyTwo.exe
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\bin\Debug\MetrologyTwo.pdb
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\obj\Debug\MetrologyTwo.csprojResolveAssemblyReference.cache
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\obj\Debug\MetrologyTwo.Form1.resources
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\obj\Debug\MetrologyTwo.Properties.Resources.resources
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\obj\Debug\MetrologyTwo.csproj.GenerateResource.Cache
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\obj\Debug\MetrologyTwo.exe
+D:\Универ\3 семестр\Метрология\Лаба 2\MetrologyTwo\MetrologyTwo\obj\Debug\MetrologyTwo.pdb
